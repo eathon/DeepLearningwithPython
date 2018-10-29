@@ -12,7 +12,7 @@
 + 本次用書: [Deep Learning with Python][2]
 + Chapter in the book:
     + [進度 台北時間]
-    - [x] [第一週][9] 9/28
+    - [x] [第一週] 9/28
         + **導讀** 第一章 [What is deep learning]
             - Maxey / Weber
     - [x] 第二週 10/5
