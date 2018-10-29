@@ -1,6 +1,6 @@
 # Machine Learning Study Group: Deep Learning with Python
 
-## 目的:
+## 目的: test
 協助想要往 Data Science 領域發展的 Women Who Code 成員學習 Deep Learning。
 
 ## 方法:
